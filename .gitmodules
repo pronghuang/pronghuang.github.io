@@ -1,0 +1,6 @@
+[submodule ".themes/Simple"]
+	path = .themes/Simple
+	url = https://github.com/chuguixin/Simple
+[submodule ".themes/slash"]
+	path = .themes/slash
+	url = https://github.com/tommy351/Octopress-Theme-Slash
