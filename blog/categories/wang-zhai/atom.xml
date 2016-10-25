@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 网摘 | Ryan在写代码]]></title>
+  <link href="http://pronghuang.github.io/blog/categories/wang-zhai/atom.xml" rel="self"/>
+  <link href="http://pronghuang.github.io/"/>
+  <updated>2016-10-25T20:45:31+08:00</updated>
+  <id>http://pronghuang.github.io/</id>
+  <author>
+    <name><![CDATA[pronghuang]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[商业文摘]]></title>
+    <link href="http://pronghuang.github.io/blog/2016/10/25/shang-ye-wen-zhai/"/>
+    <updated>2016-10-25T19:48:13+08:00</updated>
+    <id>http://pronghuang.github.io/blog/2016/10/25/shang-ye-wen-zhai</id>
+    <content type="html"><![CDATA[<p>&ldquo;互联网虽然促进了信息的生产、交流、获取和共享，但没有改变事物的本质，即使在互联网时代，车子还是车子，内容还是内容，豆腐还是豆腐。"—<em>任正非</em></p>
+
+<p>许多事情越是想努力做好效果就越糟，比如爱情、入睡、举止自然。—<em>英国著名学者C.S.刘易斯</em></p>
+]]></content>
+  </entry>
+  
+</feed>
