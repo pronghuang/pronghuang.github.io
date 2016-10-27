@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://pronghuang.github.io/blog/2016/10/27/kai-yuan-ku-yu-ji-zhu-zhu-ti/</loc>
+<lastmod>2016-10-27T16:24:55+08:00</lastmod>
+</url>
+<url>
+<loc>http://pronghuang.github.io/blog/2016/10/27/zai-xian-gong-ju/</loc>
+<lastmod>2016-10-27T15:34:17+08:00</lastmod>
+</url>
+<url>
 <loc>http://pronghuang.github.io/blog/2016/10/25/wa-ming-yi-pian-de-ye-wan/</loc>
 <lastmod>2016-10-25T20:21:54+08:00</lastmod>
 </url>
@@ -26,5 +34,8 @@
 </url>
 <url>
 <loc>http://pronghuang.github.io/blog/categories/za-gan/</loc>
+</url>
+<url>
+<loc>http://pronghuang.github.io/blog/categories/gong-ju/</loc>
 </url>
 </urlset>
